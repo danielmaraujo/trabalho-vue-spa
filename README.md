@@ -1,4 +1,5 @@
-# trabalho-vue
+Uma SPA utilizando Vue.js. 
+Trabalho para a disciplina de Programação Orientada a Objetos Aplicada. 
 
 ## Project setup
 ```
@@ -14,11 +15,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
